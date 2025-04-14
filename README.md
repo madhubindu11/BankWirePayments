@@ -15,6 +15,4 @@ Data Preprocessing - Run the preprocessing.py script to perform basic data prepr
 
 Fraud Analysis - Run the fraud_analysis.py script to explore the relationship between different features and a hypothetical 'FraudCheck' column. This script generates a count plot of 'TransactionAmountCategory' vs. 'FraudCheck', a heatmap of the correlation matrix of numerical features, and a count plot of 'PaymentType' vs. 'FraudCheck'. 
 
-![image](https://github.com/user-attachments/assets/e0c4563b-e260-427f-acef-e664afa778f5)
-
-
+file:///C:/Users/vnjak/Downloads/Map.html
