@@ -1,5 +1,5 @@
 # BankWirePayments
-This project serves as a valuable resource for anyone looking to understand and analyze bank wire payment transaction data, providing a foundation for more in-depth investigations and the development of predictive models
+This project serves as a valuable resource for anyone looking to understand and analyze bank wire payment transaction data, providing a foundation for more in-depth investigations and the development of predictive models.
 📂 Dataset The dataset contains Compliance, status of transaction, AML Score, , credit scores, Amount, transactions fee and time, KYC. Missing values are handled using mean imputation. Features are standardized for clustering analysis.
 Visualizing Top Sender and Receiver Banks - Run the visualization_top_banks.py script to generate horizontal bar plots showing the top 10 sender and receiver banks by the total transaction amount.
 Visualizing Transaction Status vs. Amount - Run the visualization_status_amount.py script to generate a box plot showing the distribution of transaction amounts for different transaction statuses and a pie chart showing the distribution of transaction statuses.
